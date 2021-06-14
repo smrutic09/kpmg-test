@@ -1,0 +1,5 @@
+I have created 2 files fo the three tier architecture.
+1. install.sh
+2. main.tf
+
+I have craeted VPC CIDR 10.0.0.0/16. Launched a EC2 instance, Load Balancer and RDS. 
